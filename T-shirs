@@ -1,0 +1,25 @@
+<div class="sidebar">
+  <a href="index.html">Home</a>
+  <a href="tshirts.html">T-Shirts</a>
+</div>
+
+<div class="main">
+  <h1>Our T-Shirts</h1>
+  <div class="products">
+    <div class="product">
+      <img src="greenrijk.jpg" alt="Green Rijk T-Shirt" width="350">
+      <p>Green Rijk T-Shirt</p>
+      <p>250 Dhs</p>
+    </div>
+    <div class="product">
+      <img src="navyshirt.jpg" alt="Navy Blue T-Shirt" width="350">
+      <p>Navy Blue T-Shirt</p>
+      <p>250 Dhs</p>
+    </div>
+    <div class="product">
+      <img src="whiteshirt.jpg" alt="White T-Shirt" width="350">
+      <p>White T-Shirt</p>
+      <p>250 Dhs</p>
+    </div>
+  </div>
+</div>
